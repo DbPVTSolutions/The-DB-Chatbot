@@ -25,7 +25,7 @@ The project has both social impact and commercial potential, including improved 
 
 ## Build Details
 ### GitHub Repository
-Please find the link to our GitHub repository [here]([link_to_repository](https://github.com/DbPVTSolutions/The-DB-Chatbot)).
+Please find the link to our GitHub repository [https://github.com/DbPVTSolutions/The-DB-Chatbot]).
 
 ### Contents
 - **Source Code:** All source code used for the project.
