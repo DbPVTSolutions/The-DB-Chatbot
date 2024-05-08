@@ -1,0 +1,90 @@
+<!-- tutorial.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DB Solutions - Tutorials Page</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='tutorial.css') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/logo.jpg') }}" type="image/x-icon">
+    <script src="{{ url_for('static', filename='chat.js') }}" defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,1,0" />
+
+</head>
+<body>
+    <nav>
+        <a class="head" href="{{ url_for('landing_page') }}" title="Home">DB Solutions <i class="fas fa-oil-well"></i></a>
+        <a class="head" href="{{ url_for('tutorial') }}" title="Tutorial page">Tutorials <i class="fa-solid fa-chalkboard"></i></a>
+        <div class="dropdown">
+          <ul class="contact-dropdown">
+            <li class="head">Contact Us <i class="fa-solid fa-globe"></i></li>
+            <div class="dropdown-content">
+              <a href="https://www.instagram.com/dbpvtsolutions" target="_blank" title="Instagram"><i class="fa-brands fa-instagram"></i> Instagram</a>
+              <a href="https://www.linkedin.com/company/db-reservoir-solutions" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+              <a href="mailto:dbpvtsolutions@gmail.com" target="_blank" title="Email"><i class="fa-regular fa-envelope"></i> Email</a>
+            </div>
+          </ul>
+        </div>
+    </nav>
+
+    <img src="{{ url_for('static', filename='images/favicon.ico.jpeg') }}" alt="DB Solutions Logo"> 
+    <br>
+    <br>
+
+    <h1 id="tt">Tutorials</h1>
+
+    <p>Welcome to our tutorial page! </p>
+    <p>Check out quick videos on using our AI chatbot effectively</p>
+    <p>Dive in, to get the most for your experience!</p>
+    <br>
+
+
+    <figure class="video-item">
+        <video src="{{ url_for('static', filename="videos/vid3.mp4") }}" poster="images/favicon.ico.jpeg" controls muted title="Chatbot Video"></video>
+        <figcaption>Chatbot</figcaption>
+    </figure>
+
+    <section>
+        <button class="chatbot-toggler">
+            <span class="material-symbols-rounded">mode_comment</span>
+            <span class="material-symbols-outlined">close</span>
+        </button>
+        <div class="chatbot">
+            <header>
+                <h2>The DB Chatbot</h2>
+                <span class="close-btn material-symbols-outlined">close</span>
+            </header>
+            <ul class="chatbox">
+                <li class="chat incoming">
+                    <span class="material-symbols-outlined">robot_2</span>
+                    <p>Hi there 👋<br>How can I help you today?</p>
+                </li>
+            </ul>
+            <div class="chat-input">
+                <textarea placeholder="Enter a message..." spellcheck="false" required></textarea>
+                <span id="send-btn" class="material-symbols-rounded">send</span>
+            </div>  
+        </div>
+        
+    </section>
+
+    
+    <footer>
+        <p>
+            <span>&copy; DB Solutions 2024</span>
+        </p>
+    
+    </footer> 
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'G-8TDV4ZEFRY');
+    </script>
+    
+</body>
+</html>

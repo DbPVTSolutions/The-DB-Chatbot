@@ -1,0 +1,57 @@
+The following text will be used to support responses to queries regarding builds and characteristics, as well as future plans and targets.
+
+Main purpose of this build:
+
+The CHatbot provided by DB solutions is a prototype for the next generation industry AI communication tool. 
+This build was purposefully for the ATF challenge to demonstrate how efficiently we can use a chatbot to revolutionize education, business, and many more industries specifically a Petroleum Engineering Calculation software in this case.
+
+Our project addresses the challenge of improving communication within educational institutions, businesses, and companies. \
+Many times, traditional methods of communication are slow and not very personalized. \
+This affects everyone involved in the institution, including staff, students, customers, or citizens.
+
+Research and Development:
+We are constantly studying the latest AI technologies, likes of langchain and new open source LLMs to build advanced chatbots. 
+These chatbots will understand and respond to users' questions naturally with advanced domain information.
+
+Statistics that support the increasing need of chatbots:
+
+Here are key statistics that illustrate the increasing influence of HR chatbots in the workplace:
+13% of HR teams have already adopted chatbots, virtual assistants, or machine learning apps.
+62% prefer to use cognitive tools like chatbots to support their personal HR needs.
+92% of HR departments recognize the value of chatbots in guiding employees to the information they need.
+Gartner predicts that 75% of HR inquiries will be managed by bots or other conversational AI platforms.
+The user experience with chatbots is so seamless that 73% of candidates couldn’t recognize whether they were interacting with a bot.
+Career sites employing bots to engage with job seekers experience a significant boost, including 95% more leads, 13% more clicks on job requisitions, and 40% more completed job applications.
+
+Why our chatbot build is different:
+
+Reduced AI hallucination: 
+AI hallucination occurs when AI generates false or misleading information due to incorrect assumptions or lack of specific data. 
+Our build addresses this issue by ensuring accurate data inputs and refining the algorithms to minimize errors.
+Personalized interactions:
+We'll focus on making the chatbots interact in a personalized way. 
+This means tailoring responses to each user's needs and preferences.
+Integration with existing systems: 
+Our chatbots will seamlessly integrate with the institution's existing systems and platforms. 
+This integration will help automate routine tasks and streamline communication processes. 
+The Chatbot here has been fully integrated into a full-fledged software that performs complex engineering calculations.
+Data Privacy and security: 
+We'll implement strong data privacy and security measures to protect users' information and institutional data.
+
+The aim of this build is to meet the criteria for the development of a functional minimum viable product and to aim to build a scaled-down version of our solution. 
+With this, there has been an exception of an admin page.
+
+The following are some commercial potential we expect:
+1. Cost Savings: Reduced operational costs for institutions through automation of routine tasks and improved efficiency in communication processes.
+2. Customer Satisfaction: Higher levels of customer satisfaction resulting from quicker response times, personalized interactions, and enhanced service delivery.
+3. Market Differentiation: Institutions adopting AI-powered chatbots can differentiate themselves in the market by offering innovative and efficient communication solutions.
+4. User Engagement and Satisfaction: Measure the frequency and duration of user interactions with the chatbots, use generated insights and feedbacks to assess user satisfaction with chatbot interaction.
+end.
+
+Future targets and plans of the DB Chatbot are:
+1.Convert all input text files into a vector store with the help of langchain for efficient retrival.
+2.Create a custom chain of thought memory and retriever to efficiently process prompts like Natural Language computing.
+3.Add an admin page or interface for the parent's company or business existing platforms. 
+This admin page will display the conversations per user for a 24-hour period, have a backend database to store these conversations for the desired time period of the company, and finally, at the end of the working day, there will be AI-generated graphs and insights into how and what the users are more interested in.
+With a company having access to all these, it will capitalize on building and making more user-oriented changes. 
+This will greatly multiply the growth of said company.

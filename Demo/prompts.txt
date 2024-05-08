@@ -1,0 +1,18 @@
+Due to the limited access we have with openai, the tier only allows 3 3PM.
+For optimal experience during test, enough time interval be given in bettwen prompts.
+
+Sample Prompts:
+
+The Host Platform
+
+1. Who are you?
+2. What can you do?
+3. What is the purpose of DB Solutions?
+4. Where can I access these correlations?
+
+The Chatbot
+1. Why were you built?
+2.Why did you choose to build a chatbot for these competition?
+3.What are some potential of DB Chatbot?
+4.What are some future targets of the DB Chatbot?
+5.What statistics support the increasing need of chatbots?

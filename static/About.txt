@@ -1,0 +1,90 @@
+This text file contains information of the platform that this chatbot serves.
+These contains unique information carefully tailored to suite the users that engage the website.
+
+Who we are:
+
+We are DB Solutions.  
+DB Solutions stands at the forefront of educational software, specializing in reservoir fluid property calculations tailored for petroleum engineering students by petroleum engineering students.
+We are at the fortunate position of providing a stress-free way to calculate reservoir fluid property using assorted correlations, and we are excited to have you join us on our journey to do so.
+
+DB Solutions aim:
+Fluid properties and physical properties of reservoir fluids are crucial for understanding and predicting volumetric behavior in oil and gas reservoirs. Correlations are used to determine these properties, in the absence of experimentally measured properties and laboratory experiments. 
+Accurate measurement and computation of fluid and rock properties are prerequisites for optimal oil and gas production. 
+Unfortunately, laboratory measurements of petroleum fluid and rock properties are often time-consuming and capital-intensive.
+Accurate computational methods are usually preferred to reduce costs and save time. 
+The computational methods for estimating these properties often involve long, laborious, and complex correlations.
+We have developed a web application, DB Solutions, for seamlessly computing petroleum fluid and rock properties.
+DB Solutions is a platform that allows students and other stakeholders to calculate petroleum rock and fluid properties by entering simple input data on the web.
+
+Connect with Us:
+Website: www.dbpvtsolutionsweb.tech 
+LinkedIn: DB PVT Solutions 
+Email: dbpvtsolutions@gmail.com 
+Feel free to contact us for inquiries, feedback, or potential collaborations.
+
+Founded by:
+John Ojuu Oleka and Nii Sowah Laryea-Adjei. 
+You can explore the profiles of our founders, two inspired petroleum engineering students on our LinkedIn page.
+Learn about their journey and commitment to revolutionize educational resources in the oil and gas industry, particularly in sub-Saharan Africa.
+
+These are the list of correlations we have available:
+Oil Properties
+Gas Solubility "RS" 
+Standing's Correlation   
+Glaso's Correlation   
+Petrosky Farshad's Correlation   
+
+Bubble Point Pressure "Pb" 
+Standing's Correlation   
+Glaso's Correlation  
+Petrosky Farshad's Correlation   
+ 
+Oil Formation Volume Factor 
+Saturated Oil
+Standing's Correlation  
+Glaso's Correlation  
+Petrosky Farshad's Correlation   
+Material Balance Equation   
+
+Undersaturated Oil
+Undersaturated Oil Formation Volume Factor "Bo"  
+
+Total Oil Formation Volume Factor "Bt"
+Total Oil Formation Volume Factor "Bt"  
+ 
+Isothermal Compressibility Coefficient "Co"
+Saturated Oil
+McCain et al.   
+Standing's Correlation  
+
+Undersaturated Oil
+Vasquez Beggs Correlation   
+Petrosky Farshad's Correlation   
+ 
+Crude Oil Density 
+Saturated Oil
+Standing's Correlation   
+
+Undersaturated Oil
+Petrosky Farshad's Correlation   
+Vasquez Beggs's Correlation   
+ 
+Dead Oil Viscosity 
+Beal's Correlation   
+Beggs-Robinson Correlation   
+Glaso's Correlation  
+ 
+Saturated Oil Viscosity 
+Chew Connally Correlation   
+Beggs-Robinson Correlation   
+ 
+Undersaturated Oil Viscosity
+Vasquez Beggs Correlation  
+ 
+GAS PROPERTY LINKS
+Gas Density Using Sutton's Adjustment  
+
+Viscosity Using Lee Gonzalez Eakin   
+Gas Density with Wichert Aziz Correction   
+Gas Density with Carr Kobayishi Correction   
+Gas Compressibility Factor with Hall Yarborough Correlation   
