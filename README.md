@@ -33,6 +33,7 @@ Please find the link to our GitHub repository [here](link_to_repository).
 
 ## Additional Information
 For further inquiries, feedback, or potential collaborations, please feel free to contact us at [dbpvtsolutions@gmail.com](mailto:dbpvtsolutions@gmail.com).
+
 ## Connect with Us
-- **Website:** [www.dbpvtsolutions.tech](https://www.dbpvtsolutions.tech)
+- **Website:** [www.dbpvtsolutions.tech](https://www.dbpvtsolutionsweb.tech)
 - **LinkedIn:** [DB PVT Solutions](https://www.linkedin.com/company/db-pvt-solutions)
