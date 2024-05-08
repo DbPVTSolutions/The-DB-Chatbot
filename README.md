@@ -4,8 +4,8 @@
 The DB Chatbot project aims to revolutionize communication within institutions such as schools and businesses by leveraging advanced chatbot technology. This README provides comprehensive information about the project, its objectives, methodology, expected outcomes, and submission instructions.
 
 ## Project Relevance & Impact
-The DB Chatbot project addresses the challenge of improving communication within institutions. Traditional methods of communication are often slow and impersonal, impacting staff, students, customers, or citizens. By implementing AI-powered chatbots, we aim to streamline communication processes, enhance engagement, and improve operational efficiency across various sectors.
-Our project demonstrates an innovative approach to constructing chatbots using proprietary company data files, ensuring confidentiality while enhancing the LLM's domain knowledge for prompt and efficient responses. It provides a rapid and effective solution for equipping diverse organizations with readily available AI communication capabilities.
+- The DB Chatbot project addresses the challenge of improving communication within institutions. Traditional methods of communication are often slow and impersonal, impacting staff, students, customers, or citizens. By implementing AI-powered chatbots, we aim to streamline communication processes, enhance engagement, and improve operational efficiency across various sectors.
+- Our project demonstrates an innovative approach to constructing chatbots using proprietary company data files, ensuring confidentiality while enhancing the LLM's domain knowledge for prompt and efficient responses. It provides a rapid and effective solution for equipping diverse organizations with readily available AI communication capabilities.
 
 ### Solution Methodology
 - **Research and Development:** We utilize the latest AI technologies like machine learning and LLMs to build advanced chatbots capable of understanding and responding to users' questions naturally.
