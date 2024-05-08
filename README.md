@@ -7,6 +7,13 @@ The DB Chatbot project aims to revolutionize communication within institutions s
 - The DB Chatbot project addresses the challenge of improving communication within institutions. Traditional methods of communication are often slow and impersonal, impacting staff, students, customers, or citizens. By implementing AI-powered chatbots, we aim to streamline communication processes, enhance engagement, and improve operational efficiency across various sectors.
 - Our project demonstrates an innovative approach to constructing chatbots using proprietary company data files, ensuring confidentiality while enhancing the LLM's domain knowledge for prompt and efficient responses. It provides a rapid and effective solution for equipping diverse organizations with readily available AI communication capabilities.
 
+## Build Details
+### **Running Instructions**
+To get started, please follow the steps outlined in **instruction.txt** located in the **Demo** folder.
+
+### GitHub Repository
+Please find the link to our GitHub repository [here](https://github.com/DbPVTSolutions/The-DB-Chatbot).
+
 ### Solution Methodology
 - **Research and Development:** We utilize the latest AI technologies like machine learning and LLMs to build advanced chatbots capable of understanding and responding to users' questions naturally.
 - **Personalized Interaction:** Our chatbots interact in a personalized manner, tailoring responses to each user's needs and preferences.
@@ -22,10 +29,6 @@ The project is scalable, although challenges such as technical complexity, integ
 
 ### Social Impact and Commercial Potential
 The project has both social impact and commercial potential, including improved accessibility, empowerment of users, cost savings, higher customer satisfaction, and market differentiation. Metrics to measure success include user engagement, response time, and user satisfaction.
-
-## Build Details
-### GitHub Repository
-Please find the link to our GitHub repository [here]([https://github.com/DbPVTSolutions/The-DB-Chatbot]).
 
 ### Contents
 - **Source Code:** All source code used for the project.
