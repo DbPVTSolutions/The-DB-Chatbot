@@ -39,5 +39,5 @@ The project has both social impact and commercial potential, including improved 
 For further inquiries, feedback, or potential collaborations, please feel free to contact us at [dbpvtsolutions@gmail.com](mailto:dbpvtsolutions@gmail.com).
 
 ## Connect with Us
-- **Website:** [www.dbpvtsolutions.tech](https://www.dbpvtsolutionsweb.tech)
+- **Website:** [www.dbpvtsolutionsweb.tech](https://www.dbpvtsolutionsweb.tech)
 - **LinkedIn:** [DB PVT Solutions](https://www.linkedin.com/company/db-pvt-solutions)
